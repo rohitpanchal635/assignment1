@@ -1,0 +1,6 @@
+a = int(input("Enter the your first name:"))
+b = int(input("Enter the your last name: "))
+print("addition of two numbers is:", a + b)
+print("subtraction of two numbers is:", a - b)
+print("multiplication of two numbers is:", a * b)
+print("division of two numbers is:", a / b)
